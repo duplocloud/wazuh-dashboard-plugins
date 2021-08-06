@@ -321,12 +321,12 @@ export class HealthCheck extends Component {
       results.push(
         {
           id: 0,
-          title: 'Check Wazuh API connection',
+          title: 'Check Duplo Security API connection',
           description: checks.api ? <span><EuiLoadingSpinner size="m" /> Checking...</span> : 'Disabled'
         },
         {
           id: 1,
-          title: 'Check for Wazuh API version',
+          title: 'Check for Duplo Security API version',
           description: checks.setup ? <span><EuiLoadingSpinner size="m" /> Checking...</span> : 'Disabled'
         },
         {
