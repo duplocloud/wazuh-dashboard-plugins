@@ -302,8 +302,8 @@ export const ASSETS_PUBLIC_URL = '/plugins/wazuh/public/assets/';
 export const REPORTS_LOGO_IMAGE_ASSETS_RELATIVE_PATH =
   'images/logo_reports.png';
 export const REPORTS_PRIMARY_COLOR = '#256BD1';
-export const REPORTS_PAGE_FOOTER_TEXT = 'Copyright © 2023 Wazuh, Inc.';
-export const REPORTS_PAGE_HEADER_TEXT = 'info@wazuh.com\nhttps://wazuh.com';
+export const REPORTS_PAGE_FOOTER_TEXT = 'Copyright © 2024 DuploCloud, Inc.';
+export const REPORTS_PAGE_HEADER_TEXT = 'info@duplocloud.net\nhttps://duplocloud.com/';
 
 // Plugin platform
 export const PLUGIN_PLATFORM_NAME = 'Wazuh dashboard';
